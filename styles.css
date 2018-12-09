@@ -1,0 +1,26 @@
+html{
+    background-color: pink;
+}
+header{
+    background-color: beige;
+    height: 140px;
+font-size: 70px;
+text-align: center;
+color: goldenrod
+}
+h1{
+
+}
+/* img{ */
+    height: 500px;
+}
+article{
+    font-size: 30
+}
+h2{
+    font-size: 40
+}
+#zen {
+    font-size: 40px;
+    color: black;
+}

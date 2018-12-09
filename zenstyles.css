@@ -1,0 +1,27 @@
+html{
+    background-color: burlywood;
+}
+header{
+    color: black;
+    background-color: olivedrab;
+    text-align: center;
+    font-size: 80px;
+    display: block;
+}
+img{
+    height: 400px;
+}
+nav{
+  
+}
+    
+
+ul{
+    list-style: none;
+}
+li{
+    display: inline;
+    font-size: 40px;
+    display: inline-block;
+
+}
